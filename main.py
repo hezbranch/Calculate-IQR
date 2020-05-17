@@ -27,7 +27,7 @@ def find_median(data):
     median_index = int((length / 2))
     if (length % 2 == 0):
         median1 = data[median_index]
-        median2 = data[median_index - 1]
+        median2 = data[median_index + 1]
         median = ((median1) + (median2)) / 2
     else:
         median = data[median_index]
