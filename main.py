@@ -24,7 +24,7 @@ data.sort()
 # Find the median
 def find_median(data):
     length = len(data)
-    median_index = int((length / 2))
+    median_index = int((length / 2)) - 1
     if (length % 2 == 0):
         median1 = data[median_index]
         median2 = data[median_index + 1]
