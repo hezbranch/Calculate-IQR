@@ -1,6 +1,6 @@
 # Calculate IQR
 
-This program runs in terminal for users to calculate the interquartile range of a data set. 
+This program allows users to calculate the interquartile range of a data set. 
 
 **To run in command line**:
 - download zipped file and extract
