@@ -1,5 +1,5 @@
 # Hezekiah Branch
-# Due May 16, 2020
+# May 16, 2020
 
 # Calculate IQR
 # This was a fun challenge to calculate the Interquartile Range (IQR) # which is a topic covered in elementary statistics.
